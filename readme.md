@@ -8,8 +8,8 @@ The function `bubble_sort` has been started for you in `bubble_sort.py`, along w
 
 ## Algorithm Outline
 
-- In the outer loop, perform one pass of the whole list, comparing pairs, for EACH number in your list.
-- In the inner loop, you will perform each actual pass, performing the following steps:
+- In the outer loop, run the inner loop once for EACH number in your list. (Since you'll have to perform one pass of the whole list for each element in the list.)
+- In the inner loop, you will run each actual pass, performing the following steps:
   1. Compare each number to the next.
   2. Check if they're in the wrong order.
   3. If they are... swap them!
