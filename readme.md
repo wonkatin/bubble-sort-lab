@@ -18,7 +18,7 @@ The function `bubble_sort` has been started for you in `bubble_sort.py`, along w
 
 - It's a good idea to save the length of your list into a variable for easy access.
 - `range` is really useful in your `for` loops.
-- Getting the error `IndexError: list index out of range`? You probably compared the last number with the one after--there is nothing after the last number! (That's what "last" means...)
+- Getting the error `IndexError: list index out of range`? You probably compared the last number with the one after--there _is_ nothing after the last number! (That's what "last" means...)
 - In Python, you can swap two values with the following sweet sweet syntax:
 
 ```python
